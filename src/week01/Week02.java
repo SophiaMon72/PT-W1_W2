@@ -50,7 +50,7 @@ public class Week02 {
                    double costOfMilk = 5;
                    int thirstLevel = 8;
                    if (costOfMilk < 2.50 || thirstLevel > 6) {
-                     System.out.println("Milk Please :3");
+                     System.out.println("Milk Please");
                    } else {
                        System.out.println("No Thanks");
                    }
